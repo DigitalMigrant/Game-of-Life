@@ -1,0 +1,8 @@
+C:\Users\Rosel\source\repos\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.AssemblyReference.cache
+C:\Users\Rosel\source\repos\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rosel\source\repos\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Rosel\source\repos\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe.config
+C:\Users\Rosel\source\repos\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.exe
+C:\Users\Rosel\source\repos\GameOfLifeConsole\bin\Debug\GameOfLifeConsole.pdb
+C:\Users\Rosel\source\repos\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.exe
+C:\Users\Rosel\source\repos\GameOfLifeConsole\obj\Debug\GameOfLifeConsole.pdb
